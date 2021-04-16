@@ -62,5 +62,11 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>ms-excell</string>
+		<string>ms-powerpoint</string>
+		<string>ms-word</string>
+	</array>
 </dict>
 </plist>
